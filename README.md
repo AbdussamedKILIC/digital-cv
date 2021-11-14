@@ -1,6 +1,6 @@
 # Samed Kılıç
 
-####_Software Developer based in Kocaeli, Turkey_ <br>
+#### _Software Developer based in Kocaeli, Turkey_ <br>
 
 [📧](abdussamedkilic24@gmail.com) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/)
 
@@ -38,7 +38,8 @@ During the internship process, I worked on 2 different projects
     
 ## 🧑‍🎓 Education 
 **Kocaeli University / Computer Engineering** > _(SEPT 2018 - CURRENTLY, KOCAELI)_ <br>
-**Lessons :** 
+** Lessons : ** 
+
     - Object Oriented Programming (AA)
     - Data structures and Algorithms (AA)
     - Computer Organization and Architecture (AA)
@@ -46,4 +47,5 @@ During the internship process, I worked on 2 different projects
     - Introduction to Neural Networks (AA)
     - Object Oriented Analysis and Design (BA)
     - Logic Design and Applications (AA)
+    
 <br><br>
