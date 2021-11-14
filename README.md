@@ -2,7 +2,7 @@
 
 #### _Software Developer based in Kocaeli, Turkey_ <br>
 
- [![email icon](https://github.com/AbdussamedKILIC/digital-cv/blob/gh-pages/icons/email.ico)](mailto:abdussamedkilic24@gmail.com) , [![linkedin icon](https://github.com/AbdussamedKILIC/digital-cv/blob/gh-pages/icons/linkedin.ico)](https://www.linkedin.com/in/abdussamedkilic/) , [![github icon](https://github.com/AbdussamedKILIC/digital-cv/blob/gh-pages/icons/github.ico)](https://github.com/AbdussamedKILIC)
+ [![Email](https://github.com/AbdussamedKILIC/digital-cv/blob/gh-pages/icons/email.ico)](mailto:abdussamedkilic24@gmail.com) , [![Linkedin](https://github.com/AbdussamedKILIC/digital-cv/blob/gh-pages/icons/linkedin.ico)](https://www.linkedin.com/in/abdussamedkilic/) , [![Github](https://github.com/AbdussamedKILIC/digital-cv/blob/gh-pages/icons/github.ico)](https://github.com/AbdussamedKILIC)
 
 ## 💻 Skills
   - Java (Spring + Hibernate)
