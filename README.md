@@ -38,7 +38,7 @@ During the internship process, I worked on 2 different projects
     
 ## 🧑‍🎓 Education 
 **Kocaeli University / Computer Engineering** > _(SEPT 2018 - CURRENTLY, KOCAELI)_ <br>
-###### Lessons : 
+
     - Object Oriented Programming (AA)
     - Data structures and Algorithms (AA)
     - Computer Organization and Architecture (AA)
