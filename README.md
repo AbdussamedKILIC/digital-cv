@@ -2,7 +2,7 @@
 
 #### _Software Developer based in Kocaeli, Turkey_ <br>
 
-[📧](abdussamedkilic24@gmail.com) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/)
+![email icon](https://github.com/AbdussamedKILIC/digital-cv/blob/gh-pages/icons/email.png) [](abdussamedkilic24@gmail.com) / ![linkedin icon](https://github.com/AbdussamedKILIC/digital-cv/blob/gh-pages/icons/linkedin.png) [LinkedIn](https://www.linkedin.com/in/carolstran/) / ![github icon](https://github.com/AbdussamedKILIC/digital-cv/blob/gh-pages/icons/github.png) [GitHub](https://github.com/carolstran/)
 
 ## 💻 Skills
   - Java (Spring + Hibernate)
