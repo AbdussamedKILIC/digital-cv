@@ -11,6 +11,13 @@
   - Image Processing (OpenCV + Python)
   - Deep Learning (Keras + Python)
   - Blockchain (Solidity)
+<br><br>
+
+## 💬 Languages
+
+**Turkish**: Native <br>
+**English**: C1 
+<br><br>
 
 ## 👨‍💻 Experience
 
@@ -39,10 +46,4 @@ Lessons :
     - Introduction to Neural Networks (AA)
     - Object Oriented Analysis and Design (BA)
     - Logic Design and Applications (AA)
-
-## 💬 Languages
-
-**Turkish**: Native <br>
-**English**: C1 
 <br><br>
-
