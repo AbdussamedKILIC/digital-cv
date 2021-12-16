@@ -1,8 +1,11 @@
 # Samed Kılıç
 
 #### _Software Developer based in Kocaeli, Turkey_ <br>
-
- [![Email](https://imgshare.io/images/2021/11/14/email.png)](mailto:abdussamedkilic24@gmail.com) , [![Linkedin](https://imgshare.io/images/2021/11/14/linkedin.png)](https://www.linkedin.com/in/abdussamedkilic/) , [![Github](https://imgshare.io/images/2021/11/14/github.png)](https://github.com/abdussamedkilic)
+[![github](https://user-images.githubusercontent.com/62799218/146371378-7f36421f-7bd3-4d21-a587-7ec34bd6dedb.png)](https://github.com/abdussamedkilic) , 
+[![email](https://user-images.githubusercontent.com/62799218/146371147-934b6d97-c846-45fc-aecb-3bf94673978a.png)](mailto:abdussamedkilic24@gmail.com) , 
+[![whatsapp](https://user-images.githubusercontent.com/62799218/146373177-c611e277-1954-417f-9d3d-4f2221f4f912.png)](wa.link/zedibm) , 
+[![linkedin](https://user-images.githubusercontent.com/62799218/146371310-79e2a929-e980-42a8-9f78-44dd64fa01d1.png)](https://www.linkedin.com/in/abdussamedkilic/) , 
+[![instagram](https://user-images.githubusercontent.com/62799218/146371931-bfabf143-27e5-4e0f-b271-664178b58643.png)](https://www.instagram.com/abdussamedklc/) , 
 
 ## 💻 Skills
   - Java (Spring + Hibernate)
