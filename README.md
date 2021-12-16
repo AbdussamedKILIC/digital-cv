@@ -3,8 +3,6 @@
 #### _Software Developer based in Kocaeli, Turkey_ <br>
 [![github](https://user-images.githubusercontent.com/62799218/146371378-7f36421f-7bd3-4d21-a587-7ec34bd6dedb.png)](https://github.com/abdussamedkilic) , 
 [![email](https://user-images.githubusercontent.com/62799218/146371147-934b6d97-c846-45fc-aecb-3bf94673978a.png)](mailto:abdussamedkilic24@gmail.com) , 
-[![whatsapp](https://user-images.githubusercontent.com/62799218/146373177-c611e277-1954-417f-9d3d-4f2221f4f912.png)](https://wa.link/zedibm) , 
-[![skype](https://user-images.githubusercontent.com/62799218/146375419-3bf501fc-b690-42e9-aa3d-299ee05efe82.png)](https://join.skype.com/invite/zOZSZxAVS3lX) , 
 [![linkedin](https://user-images.githubusercontent.com/62799218/146371310-79e2a929-e980-42a8-9f78-44dd64fa01d1.png)](https://www.linkedin.com/in/abdussamedkilic/) , 
 [![instagram](https://user-images.githubusercontent.com/62799218/146371931-bfabf143-27e5-4e0f-b271-664178b58643.png)](https://www.instagram.com/abdussamedklc/) , 
 
