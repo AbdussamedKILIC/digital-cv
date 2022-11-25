@@ -41,12 +41,12 @@
 ## 👨‍💻 Experience
 
  **Intern at Kocaeli University Image Processing Lab** > _(JULY 2020 - AUG 2020, KOCAELI)_ <br>
-During the internship process, I worked on 2 different projects
-  - The first project is a mobile application development project. It is aimed to develop applications for both android and ios platforms using React-native. 
+  - During the internship process, I worked on 2 different projects
+    - The first project is a mobile application development project. It is aimed to develop applications for both android and ios platforms using React-native. 
     Todo list application has been made.
-  - The second project is a web application development project. Quiz application has been made. React framework is used for frontend development. 
+    - The second project is a web application development project. Quiz application has been made. React framework is used for frontend development. 
     On the backend, services have been developed with NodeJS. Firebase realtime database integration has been made and the data is stored here.
-  - **_Technologies used:_** React-native, React, Firebase realtime database, Nodejs, Express.js.
+    - **_Technologies used:_** React-native, React, Firebase realtime database, Nodejs, Express.js.
 <br><br>
 
  **Intern at ASE Software** > _(JULY 2021 - SEPT 2021, REMOTE)_ <br>
