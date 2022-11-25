@@ -7,18 +7,35 @@
 [![instagram](https://user-images.githubusercontent.com/62799218/146371931-bfabf143-27e5-4e0f-b271-664178b58643.png)](https://www.instagram.com/abdussamedklc/)
 
 ## 💻 Skills
-  - Java (Spring + Hibernate)
-  - Object Oriented Programming
-  - React-Native, React, Node.js, Javascript, HTML, CSS, Bootstrap
-  - Image Processing (OpenCV + Python)
-  - Deep Learning (Keras + Python)
-  - Blockchain (Solidity)
+  * <ins>**Web Development :**</ins>
+    - HTML5, CSS3 (inc bootstrap, tailwind), JavaScript, TypeScript
+    - React, React-Native
+    - Node.js (Express.js)
+    - Python (Flask - Django)
+    - Java (Spring - Hibernate)
+    - SQL (MySQL - PostgreSQL) - NoSQL (MongoDB)
+  * <ins>**AWS :**</ins>
+    - DynamoDB
+    - Redshift
+    - Lambda
+    - S3
+    - SES (Simple Email Service)
+    - Cognito
+  * <ins>**Additional**</ins>
+    - Programming languages (MATLAB, C)
+    - Image Processing (OpenCV + Python)
+    - Deep Learning (Keras + Python)
+    - Blockchain (Solidity)
+    - Linux
+    - Object Oriented Programming
+    - Design Patterns
+    - Agile (Scrum)
 <br><br>
 
 ## 💬 Languages
 
-**Turkish**: Native <br>
-**English**: C1 
+**Turkish :** Native <br>
+**English :** Intermediate 
 <br><br>
 
 ## 👨‍💻 Experience
@@ -35,17 +52,22 @@ During the internship process, I worked on 2 different projects
  **Intern at ASE Software** > _(JULY 2021 - SEPT 2021, REMOTE)_ <br>
   - During my internship, I did web programming intensively. I mainly developed using React and NodeJs. 
     I did the Firebase realtime database integration. I used mongoDb on the database side.
-  - **_Technologies used:_** React, Postgresql, Nodejs, Express.js, Sequelize ORM. 
+  - **_Technologies used:_** React, Postgresql, Nodejs, Express.js, Sequelize ORM.
+<br><br>
+
+  **Full Stack Developer at ScribeUp** > _(DEC 2021 - CURRENTLY, REMOTE)_ <br>
+   - React, Python and AWS (EC2, S3, DynamoDb, Lambda, CloudWatch, Redshift) languages/services were used extensively during the time I worked
+   - Worked on frontend/admin, chrome extension, backend and AWS projects.
+   - In addition, enthusiasm for learning new things and self-learning skills were developed.
 <br><br>
     
 ## 🧑‍🎓 Education 
-**Kocaeli University / Computer Engineering** > _(SEPT 2018 - CURRENTLY, KOCAELI)_ <br>
+**Kocaeli University / Computer Engineering** > _(SEPT 2018 - JUNE 2022, KOCAELI)_ <br>
   -  Object Oriented Programming (AA)
   - Data structures and Algorithms (AA)
   - Computer Organization and Architecture (AA)
   - Fuzzy Logic (AA), Algorithm Analysis (BA)
   - Introduction to Neural Networks (AA)
   - Object Oriented Analysis and Design (BA)
-  - Logic Design and Applications (AA)  
-     
+  - Logic Design and Applications (AA)    
 <br><br>
